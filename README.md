@@ -1,6 +1,23 @@
 # 💫 About Me:
-🔭 I’m currently working on A Clothing Brand and also in a studio as a front end developer<br>👯 I’m looking to collaborate on my upcomming and Future project <br>🤝 I’m looking for help with Backend<br>🌱 I’m currently learning Python and react js<br>💬 Ask me about Web<br>⚡ Fun fact i am a founder of 2 brands whichh was in initial stage currently 
+Hi, I'm Aryan — a passionate Front-End Developer, Founder, and Creative Tech Enthusiast who loves building ideas into real-world digital experiences.
 
+🔭 Currently working on: A Clothing Brand and also working as a Front-End Developer at a creative studio
+
+👯 Looking to collaborate on: My upcoming projects, innovative ideas, and exciting future ventures
+
+🤝 Looking for help with: Backend Development and building scalable full-stack applications
+
+🌱 Currently learning: Python and React.js to strengthen my development and problem-solving skills
+
+💬 Ask me about: Web Development, Front-End Development, UI/UX, and Startups
+
+⚡ Fun fact: I’m currently the founder of two brands, both of which are in their initial stages of development — and I’m working to turn these ideas into something much bigger. 🚀
+
+💻 My Mindset
+
+Learn → Build → Experiment → Fail → Improve → Repeat.
+
+I enjoy exploring new technologies, creating digital experiences, and turning creative ideas into meaningful products.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sunflowerstudio_24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanjethuri24021711) 
